@@ -1,0 +1,35 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "description": "Manutenção e evolução",
+      "code": "0001",
+      "unity": "Unitário por posição",
+      "price": "50.00"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "code": "445",
+      "price": 1500,
+      "unity": "Und",
+      "createdAt": "2023-04-11T22:29:19.383Z",
+      "id": 2
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "code": "1959",
+      "price": 1500,
+      "unity": "Und",
+      "createdAt": "2023-04-11T22:40:13.114Z",
+      "id": 3
+    },
+    {
+      "description": "Manutenção do site",
+      "code": "2935",
+      "price": 1500,
+      "unity": "Un",
+      "createdAt": "2023-04-11T22:40:47.161Z",
+      "id": 4
+    }
+  ]
+}
